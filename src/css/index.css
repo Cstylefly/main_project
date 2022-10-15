@@ -1,0 +1,11 @@
+h1{
+    color: antiquewhite;
+    display: flex;
+    transform: rotate(0.5);
+}
+.box2{
+    background-image: url('../imgs/1.jpg');
+}
+#echarts_div{
+    height: 600px;
+}
